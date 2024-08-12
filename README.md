@@ -51,8 +51,4 @@ Feel free to fork the repository and submit pull requests. You can also open iss
 License
 
 This project is open source and available under the MIT License.
-Contact Information
-
-For help or feedback, please contact [Your Email].
-GitHub Repository Link
 
